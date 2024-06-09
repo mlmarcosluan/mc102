@@ -39,6 +39,6 @@ elif Score >= 600:
 else: # Score < 300
     print ("Cartao nao concedido")
 
-    
-
-
+#    #    #
+##   ##   ##
+###  ###  ###
