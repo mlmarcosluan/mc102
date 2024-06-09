@@ -5,12 +5,6 @@
 # RA: 221532                                         #
 ######################################################
 
-
-
-### 666 ###
-
-
-
 def def_movimento (matriz, movimentacao):
 
     linha = 0
@@ -115,5 +109,6 @@ matriz = [input().split() for _ in range(n)]
 # Impressão da saída
 """
 
-
-### 666 ###
+#    #    #
+##   ##   ##
+###  ###  ###

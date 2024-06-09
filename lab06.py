@@ -43,3 +43,7 @@ if senha == 1 :
     print ("Klift, Kloft, Still, a porta se abriu")
 else:
     print ("Senha incorreta")
+
+#    #    #
+##   ##   ##
+###  ###  ###

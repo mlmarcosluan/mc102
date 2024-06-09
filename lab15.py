@@ -4,7 +4,6 @@
 # Nome: Marcos Luan Moraes de Oliveira             #
 # RA: 221532                                       #
 ####################################################
-### 666 ###
 
 def def_entradas ():
 
@@ -151,5 +150,6 @@ def caca_palavras(m, posX, posY, seq):
 
 """
 
-
-### 666 ###
+#    #    #
+##   ##   ##
+###  ###  ###

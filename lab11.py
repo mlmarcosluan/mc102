@@ -57,7 +57,7 @@ for i in range(n_equipe):
 
 
 print ("Fim do programa ")
+
 #   #   #
 ##  ##  ##
-### ### ###
-        
+### ### ###     

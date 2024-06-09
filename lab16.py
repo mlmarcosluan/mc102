@@ -115,8 +115,6 @@ print("Pessoas imunizadas apenas com uma dose:", D1)
 print("Pessoas que tomaram a segunda dose com atraso:", D2A)
 print("Pessoas esperando a segunda dose com atraso:", D1A)
 
-
-
 #   #   #
 ##  ##  ##
 ### ### ###

@@ -5,9 +5,6 @@
 # RA: 221532                                       #
 ####################################################
 
-
-### 666 ###
-
 def def_input ():
     
     # Pegaremos os imputs que são digitados linha a pos linha e adicionando eles numa lista
@@ -87,6 +84,6 @@ def main ():
 
 main ()
 
-
-
-### 666 ###
+#    #    #
+##   ##   ##
+###  ###  ###

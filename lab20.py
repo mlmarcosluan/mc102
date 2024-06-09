@@ -149,3 +149,7 @@ for i in range (n):
 # V: a equipe pode se movimentar para cima ou para baixo
 # T: a equipe pode se movimentar para a direita, para a esquerda, para cima ou para baixo
 # N: a equipe não pode se movimentar
+
+#    #    #
+##   ##   ##
+###  ###  ###

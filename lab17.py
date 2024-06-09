@@ -5,8 +5,6 @@
 # RA: 221532
 ###################################################
 
-
-
 def def_doses (N):
     
 
@@ -36,31 +34,6 @@ def doses_suficiente (N, doses_mes, mes_atual):
         
         else: # Não temos doses suficiente
             return 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 def main ():
 
@@ -98,8 +71,6 @@ def main ():
                 doses_mes.pop (mes_atual + 2)
                 doses_mes.insert (mes_atual + 2, 0)
 
-                
-
             elif suficiente == 1: # Há doses suficinete
                 valor_mes_atual = doses_mes[mes_atual - 1] # Doses do mes atual
                 valor_mes_3 = doses_mes[mes_atual + 2] # Doses daqui 3 meses
@@ -118,8 +89,6 @@ def main ():
 
 
             mes_atual = mes_atual + 1
-
-        
 
     else: # Não precisamos analizar, basta dar todas as doses para D1
         for i in range (N):
@@ -147,9 +116,6 @@ def main ():
     print ("Vacinas devolvidas:", soma_X)
     
 main ()
-
-
-
 
 #   #   #
 ##  ##  ##

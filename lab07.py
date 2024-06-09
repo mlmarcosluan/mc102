@@ -110,9 +110,6 @@ print ("Vacinados apenas com a primeira dose:", total_primeira)
 print ("Vacinados com as duas doses:", total_segunda)
 print ("Vacinas devolvidas:", total_devolvidas)
 
-
-
-
 #   #   #
 ##  ##  ##
 ### ### ###

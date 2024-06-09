@@ -5,7 +5,6 @@
 # RA: 221532
 #####################################################
 
-
 def medalhas_paises ():
     N, O, P, B = [int(x) for x in input().split()]
 

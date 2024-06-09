@@ -112,14 +112,6 @@ if len (posi_valida) > 0:
 else:
     print ("Nenhuma ligacao")
 
-
-
-
-
-
-
-
-
 #   #   #
 ##  ##  ##
 ### ### ###
