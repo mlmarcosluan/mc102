@@ -25,3 +25,7 @@ soma = t_a + t_b + t_pit_stop
 
 # Impressão da resposta
 print (soma < t )
+
+#    #    #
+##   ##   ##
+###  ###  ###

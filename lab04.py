@@ -73,3 +73,7 @@ if water != 0 and earth != 0 and fire != 0 and air != 0:
 
 else:
     print ("Realize mais treinamentos.")
+
+#    #    #
+##   ##   ##
+###  ###  ###
